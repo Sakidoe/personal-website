@@ -12,7 +12,7 @@ export default function Page() {
       {/* Hero Section with image */}
       <div style={{ position: "relative", width: "100%" }}>
         <img
-          src="/richard_stanford.jpg"
+          src="/richard_stanford.png"
           alt="Hero"
           style={{
             width: "100%",
